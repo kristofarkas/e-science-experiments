@@ -3,6 +3,8 @@
 Example implementation using Abigail and NAMD.
 
 """
+import os
+import sys
 
 import numpy as np
 
@@ -11,17 +13,17 @@ from htbac.protocols import Rfe
 
 
 def run_rfe():
-    # SET THIS!
-    sys_name = ''
-    pdb = AbFile('../systems/complex.pdb', tag='pdb').with_prefix(sys_name)
-    top = AbFile('../systems/complex.top', tag='topology').with_prefix(sys_name)
-    tag = AbFile('../systems/tags.pdb', tag='alchemicaltags').with_prefix(sys_name)
-    cor = AbFile('../systems/complex.crd', tag='coordinate').with_prefix(sys_name)
+    sys_name = sys.argv[1]
+    folder = os.path.abspath('../systems/{}'.format(sys_name))
+    pdb = AbFile('{}/complex.pdb'.format(folder), tag='pdb').with_prefix(sys_name)
+    top = AbFile('{}/complex.top'.format(folder), tag='topology').with_prefix(sys_name)
+    tag = AbFile('{}/tags.pdb'.format(folder), tag='alchemicaltags').with_prefix(sys_name)
+    cor = AbFile('{}/complex.crd'.format(folder), tag='coordinate').with_prefix(sys_name)
     system = System(name=sys_name, files=[pdb, top, tag, cor])
 
     p = Protocol(clone_settings=False)
 
-    for step, numsteps in zip(Rfe.steps, [5000, 3000000]):
+    for step, numsteps in zip([Rfe.step0, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1], [10000, 1000, 1000, 1000, 1000, 10000,  3000000]):
 
         rfe = Simulation()
         rfe.system = system
@@ -31,7 +33,6 @@ def run_rfe():
         rfe.cutoff = 12.0
         rfe.switchdist = 10.0
         rfe.pairlistdist = 13.5
-        rfe.numminsteps = 5000
         rfe.numsteps = numsteps
 
         rfe.add_input_file(step, is_executable_argument=True)
@@ -41,10 +42,14 @@ def run_rfe():
 
         p.append(rfe)
 
-    ht = Runner('bw_aprun', comm_server=('two.radical-project.org', 33174))
+    ht = Runner('bw_aprun', comm_server=('two.radical-project.org', int(sys.argv[2])))
     ht.add_protocol(p)
     ht.run(walltime=1440, queue='high')
 
 
 if __name__ == '__main__':
+
+    if len(sys.argv) != 3:
+        raise ValueError
+    
     run_rfe()
