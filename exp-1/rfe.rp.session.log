@@ -1,0 +1,599 @@
+2018-05-15 15:05:30,531: radical.saga        : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:30,531: radical.saga        : MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:30,531: radical.saga        : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:30,531: radical.saga        : MainProcess                     : MainThread     : INFO    : radical.saga         version: 0.47.4-v0.47.4@master
+2018-05-15 15:05:30,533: radical.pilot       : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:30,533: radical.pilot       : MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:30,533: radical.pilot       : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:30,568: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:30,568: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:30,568: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called box_z.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called box_y.
+INFO:htbac.simulation:Adding variable called box_x.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+2018-05-15 15:05:30,731: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:30,732: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:30,732: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+[94mEnTK session: re.session.two.kristofarkas.017666.0018
+[39m[0m[94mCreating AppManager[39m[0m2018-05-15 15:05:30,732: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Application Manager initialized
+[92m                                                           ok
+[39m[0mINFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.htbac:Using total number of cores: 10400.
+INFO:htbac.htbac:Resource dictionary:
+{'access_schema': 'gsissh',
+ 'cores': 10400,
+ 'project': 'bamm',
+ 'queue': 'high',
+ 'resource': 'ncsa.bw_aprun',
+ 'walltime': 1440}
+[94mValidating and assigning resource manager[39m[0m2018-05-15 15:05:31,047: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Validating resource description
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Resource description validated
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Populating resource manager object
+2018-05-15 15:05:31,048: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Resource manager population successful
+[92m                                     ok
+[39m[0m2018-05-15 15:05:31,048: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Workflow assigned to Application Manager
+INFO:htbac.htbac:Stage 0: 325*32 cores.
+Stage 1: 325*32 cores.
+Stage 2: 325*32 cores.
+Stage 3: 325*32 cores.
+Stage 4: 325*32 cores.
+Stage 5: 325*32 cores.
+Stage 6: 325*32 cores.
+INFO:htbac.htbac:Running workflow.
+[94mSetting up RabbitMQ system[39m[0m2018-05-15 15:05:31,048: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Setting up RabbitMQ system
+2018-05-15 15:05:31,048: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Setting up mq connection and channel
+2018-05-15 15:05:31,052: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Connection and channel setup successful
+2018-05-15 15:05:31,052: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Setting up all exchanges and queues
+2018-05-15 15:05:31,557: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : All exchanges and queues are setup
+[92m                                                    ok
+[39m[0m2018-05-15 15:05:31,558: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:31,558: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:31,558: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:31,558: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    : Created WFProcessor object: wfprocessor.0000
+2018-05-15 15:05:31,664: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Starting resource request submission
+2018-05-15 15:05:31,666: radical.saga        : MainProcess                     : MainThread     : DEBUG   : listing  adaptor registry: ['saga.adaptors.context.myproxy', 'saga.adaptors.context.x509', 'saga.adaptors.context.ssh', 'saga.adaptors.context.userpass', 'saga.adaptors.shell.shell_job', 'saga.adaptors.shell.shell_file', 'saga.adaptors.shell.shell_resource', 'saga.adaptors.redis.redis_advert', 'saga.adaptors.sge.sgejob', 'saga.adaptors.pbs.pbsjob', 'saga.adaptors.lsf.lsfjob', 'saga.adaptors.condor.condorjob', 'saga.adaptors.slurm.slurm_job', 'saga.adaptors.http.http_file', 'saga.adaptors.aws.ec2_resource', 'saga.adaptors.loadl.loadljob', 'saga.adaptors.globus_online.go_file', 'saga.adaptors.torque.torquejob', 'saga.adaptors.pbspro.pbsprojob', 'saga.adaptors.srm.srmfile', 'saga.adaptors.cobalt.cobaltjob']
+2018-05-15 15:05:31,666: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.myproxy
+2018-05-15 15:05:31,667: radical.saga.api    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:31,667: radical.saga.api    : MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:31,667: radical.saga.api    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:31,667: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.context.myproxy: loading failed: ''Adaptor' object has no attribute 'opts''
+2018-05-15 15:05:31,667: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.x509
+2018-05-15 15:05:31,668: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.x509 for saga.Context API with URL scheme(s) ['x509://']
+2018-05-15 15:05:31,668: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.ssh
+2018-05-15 15:05:31,669: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.ssh for saga.Context API with URL scheme(s) ['ssh://']
+2018-05-15 15:05:31,669: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.userpass
+2018-05-15 15:05:31,669: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.userpass for saga.Context API with URL scheme(s) ['userpass://']
+2018-05-15 15:05:31,669: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_job
+2018-05-15 15:05:31,671: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_job for saga.job.Service API with URL scheme(s) ['fork://', 'local://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,671: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_job for saga.job.Job API with URL scheme(s) ['fork://', 'local://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,671: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_file
+2018-05-15 15:05:31,674: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.namespace.Directory API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,674: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.namespace.Entry API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,674: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.filesystem.Directory API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,674: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.filesystem.File API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-15 15:05:31,674: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_resource
+2018-05-15 15:05:31,675: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.shell.shell_resource: beta versions are disabled (v0.1.beta)
+2018-05-15 15:05:31,675: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.redis.redis_advert
+2018-05-15 15:05:31,676: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.redis.redis_advert 1: module loading failed: No module named redis
+2018-05-15 15:05:31,676: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.sge.sgejob
+2018-05-15 15:05:31,678: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.sge.sgejob for saga.job.Service API with URL scheme(s) ['sge://', 'sge+ssh://', 'sge+gsissh://']
+2018-05-15 15:05:31,678: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.sge.sgejob for saga.job.Job API with URL scheme(s) ['sge://', 'sge+ssh://', 'sge+gsissh://']
+2018-05-15 15:05:31,678: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.pbs.pbsjob
+2018-05-15 15:05:31,680: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbs.pbsjob for saga.job.Service API with URL scheme(s) ['pbs://', 'pbs+ssh://', 'pbs+gsissh://']
+2018-05-15 15:05:31,680: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbs.pbsjob for saga.job.Job API with URL scheme(s) ['pbs://', 'pbs+ssh://', 'pbs+gsissh://']
+2018-05-15 15:05:31,680: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.lsf.lsfjob
+2018-05-15 15:05:31,681: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.lsf.lsfjob for saga.job.Service API with URL scheme(s) ['lsf://', 'lsf+ssh://', 'lsf+gsissh://']
+2018-05-15 15:05:31,681: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.lsf.lsfjob for saga.job.Job API with URL scheme(s) ['lsf://', 'lsf+ssh://', 'lsf+gsissh://']
+2018-05-15 15:05:31,681: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.condor.condorjob
+2018-05-15 15:05:31,682: radical.saga.api    : MainProcess                     : MainThread     : INFO    : use condor_history: False
+2018-05-15 15:05:31,683: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.condor.condorjob for saga.job.Service API with URL scheme(s) ['condor://', 'condor+ssh://', 'condor+gsissh://']
+2018-05-15 15:05:31,683: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.condor.condorjob for saga.job.Job API with URL scheme(s) ['condor://', 'condor+ssh://', 'condor+gsissh://']
+2018-05-15 15:05:31,683: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.slurm.slurm_job
+2018-05-15 15:05:31,684: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.slurm.slurm_job for saga.job.Service API with URL scheme(s) ['slurm://', 'slurm+ssh://', 'slurm+gsissh://']
+2018-05-15 15:05:31,684: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.slurm.slurm_job for saga.job.Job API with URL scheme(s) ['slurm://', 'slurm+ssh://', 'slurm+gsissh://']
+2018-05-15 15:05:31,684: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.http.http_file
+2018-05-15 15:05:31,685: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.http.http_file for saga.namespace.Entry API with URL scheme(s) ['http://', 'https://']
+2018-05-15 15:05:31,685: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.http.http_file for saga.filesystem.File API with URL scheme(s) ['http://', 'https://']
+2018-05-15 15:05:31,685: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.aws.ec2_resource
+2018-05-15 15:05:31,693: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.Context API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-15 15:05:31,693: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.resource.Manager API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-15 15:05:31,693: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.resource.Compute API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-15 15:05:31,693: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.loadl.loadljob
+2018-05-15 15:05:31,694: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.loadl.loadljob for saga.job.Service API with URL scheme(s) ['loadl://', 'loadl+ssh://', 'loadl+gsissh://']
+2018-05-15 15:05:31,694: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.loadl.loadljob for saga.job.Job API with URL scheme(s) ['loadl://', 'loadl+ssh://', 'loadl+gsissh://']
+2018-05-15 15:05:31,694: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.globus_online.go_file
+2018-05-15 15:05:31,696: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.namespace.Directory API with URL scheme(s) ['go://']
+2018-05-15 15:05:31,696: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.namespace.Entry API with URL scheme(s) ['go://']
+2018-05-15 15:05:31,696: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.filesystem.Directory API with URL scheme(s) ['go://']
+2018-05-15 15:05:31,696: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.filesystem.File API with URL scheme(s) ['go://']
+2018-05-15 15:05:31,696: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.torque.torquejob
+2018-05-15 15:05:31,698: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.torque.torquejob for saga.job.Service API with URL scheme(s) ['torque://', 'torque+ssh://', 'torque+gsissh://']
+2018-05-15 15:05:31,698: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.torque.torquejob for saga.job.Job API with URL scheme(s) ['torque://', 'torque+ssh://', 'torque+gsissh://']
+2018-05-15 15:05:31,698: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.pbspro.pbsprojob
+2018-05-15 15:05:31,699: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbspro.pbsprojob for saga.job.Service API with URL scheme(s) ['pbspro://', 'pbspro+ssh://', 'pbspro+gsissh://']
+2018-05-15 15:05:31,699: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbspro.pbsprojob for saga.job.Job API with URL scheme(s) ['pbspro://', 'pbspro+ssh://', 'pbspro+gsissh://']
+2018-05-15 15:05:31,699: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.srm.srmfile
+2018-05-15 15:05:31,700: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.namespace.Directory API with URL scheme(s) ['srm://']
+2018-05-15 15:05:31,701: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.namespace.Entry API with URL scheme(s) ['srm://']
+2018-05-15 15:05:31,701: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.filesystem.Directory API with URL scheme(s) ['srm://']
+2018-05-15 15:05:31,701: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.filesystem.File API with URL scheme(s) ['srm://']
+2018-05-15 15:05:31,701: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.cobalt.cobaltjob
+2018-05-15 15:05:31,702: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.cobalt.cobaltjob for saga.job.Service API with URL scheme(s) ['cobalt://', 'cobalt+ssh://', 'cobalt+gsissh://']
+2018-05-15 15:05:31,702: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.cobalt.cobaltjob for saga.job.Job API with URL scheme(s) ['cobalt://', 'cobalt+ssh://', 'cobalt+gsissh://']
+2018-05-15 15:05:31,705: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:31,705: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:31,705: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:31,706: radical.saga.api    : MainProcess                     : MainThread     : INFO    : default X509 context for proxy at /tmp/x509up_u1014
+2018-05-15 15:05:31,708: radical.saga        : MainProcess                     : MainThread     : DEBUG   : default context [saga.adaptor.x509   ] : {'LifeTime' : '-1', 'Type' : 'X509', 'UserProxy' : '/tmp/x509up_u1014'}
+2018-05-15 15:05:31,709: radical.saga.api    : MainProcess                     : MainThread     : INFO    : ignore ssh key at /home/kristofarkas/.ssh/authorized_keys (no public key: /home/kristofarkas/.ssh/authorized_keys.pub)
+2018-05-15 15:05:31,715: radical.saga.api    : MainProcess                     : MainThread     : INFO    : default ssh key at /home/kristofarkas/.ssh/id_rsa
+2018-05-15 15:05:31,715: radical.saga.api    : MainProcess                     : MainThread     : INFO    : ignore ssh key at /home/kristofarkas/.ssh/known_hosts (no public key: /home/kristofarkas/.ssh/known_hosts.pub)
+2018-05-15 15:05:31,722: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    : init SSH context for key  at '/home/kristofarkas/.ssh/id_rsa' done
+2018-05-15 15:05:31,723: radical.saga        : MainProcess                     : MainThread     : DEBUG   : default context [saga.adaptor.ssh    ] : {'LifeTime' : '-1', 'Type' : 'ssh', 'UserCert' : '/home/kristofarkas/.ssh/id_rsa.pub', 'UserKey' : '/home/kristofarkas/.ssh/id_rsa'}
+2018-05-15 15:05:31,724: radical.saga        : MainProcess                     : MainThread     : WARNING : cannot initialize context - no session: {'LifeTime' : '-1', 'Type' : 'X509', 'UserProxy' : '/tmp/x509up_u1014'}
+2018-05-15 15:05:31,726: radical.saga        : MainProcess                     : MainThread     : WARNING : cannot initialize context - no session: {'LifeTime' : '-1', 'Type' : 'ssh', 'UserCert' : '/home/kristofarkas/.ssh/id_rsa.pub', 'UserKey' : '/home/kristofarkas/.ssh/id_rsa'}
+[94mnew session: [39m[0m[rp.session.two.kristofarkas.017666.0019][39m[0m[94m                         \
+database   : [39m[0m[mongodb://radical:fg*2GT3^eB@crick.chem.ucl.ac.uk:27017/admin][39m[0m[92m  ok
+[39m[0m[94mcreate pilot manager[39m[0m[92m                                                          ok
+[39m[0m[94mcreate pilot description[39m[0m [ncsa.bw_aprun:10400][39m[0m[92m                                ok
+[39m[0m[94msubmit 1 pilot(s)
+        [39m[0m2018-05-15 15:05:32,417: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-15 15:05:32,417: radical.saga.pty    : MainProcess                     : MainThread     : INFO    :                      pid: 6924
+2018-05-15 15:05:32,417: radical.saga.pty    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-15 15:05:32,417: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f363df13150>
+2018-05-15 15:05:32,418: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : open master pty for [ssh] [bw.ncsa.illinois.edu] kristofarkas: /usr/bin/env TERM=vt100 X509_USER_PROXY='/tmp/x509up_u1014'  "/usr/bin/gsissh" -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa  -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu'
+2018-05-15 15:05:32,419: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess init <saga.utils.pty_process.PTYProcess object at 0x7f363e42ba90>
+2018-05-15 15:05:32,420: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : running: /usr/bin/env TERM=vt100 X509_USER_PROXY=/tmp/x509up_u1014 /usr/bin/gsissh -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu
+2018-05-15 15:05:32,423: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   51] ( export PROMPT_COMMAND='' PS1='$' ; set prompt='$'\n)
+2018-05-15 15:05:32,663: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   88] (Last login: Tue May 15 07:54:07 2018 from static.166.86.201.138.clients.your-server.de\n)
+2018-05-15 15:05:32,663: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [  485] ( \n   ___  __           _      __     __ \n  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___\n / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<\n/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nBatch and Scheduler configuration.\n  Queues:  normal (default), high, low, debug\n  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)\n             "xehimem" (128GB mem), "xkhimem" (64GB mem)\n)
+2018-05-15 15:05:32,663: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [  488] (  30 min default wall time, 48 hr maximum\n  -lnodes=X:ppn=Y syntax supported.\n\nAll SSH traffic on this system is monitored.\n\n06-10-15 17:57\nBlue Waters Discounts Available: For details, see:\nhttps://bluewaters.ncsa.illinois.edu/charge-factor-discounts\n\nQuestions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.\nFor known issues:  https://bluewaters.ncsa.illinois.edu/known-issues\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n)
+2018-05-15 15:05:33,434: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-15 15:05:33,435: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   28] ( printf 'HELLO_%d_SAGA\n' 1\n)
+2018-05-15 15:05:34,445: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-15 15:05:34,445: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   28] ( printf 'HELLO_%d_SAGA\n' 2\n)
+2018-05-15 15:05:34,894: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   22] (farkaspa@h2ologin3:~> )
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (Last login: Tue May 15 07:54:07 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin3:~> )
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (Last login: Tue May 15 07:54:07 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin3:~> )
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   18] ($$HELLO_1_SAGA\n$$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) ($$HELLO_1_SAGA)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (
+$$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   15] (HELLO_2_SAGA\n$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) (HELLO_2_SAGA)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : Got initial shell prompt (6) (
+$)
+2018-05-15 15:05:34,895: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess init <saga.utils.pty_process.PTYProcess object at 0x7f363df43210>
+2018-05-15 15:05:34,896: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : running: /usr/bin/env TERM=vt100 X509_USER_PROXY=/tmp/x509up_u1014 /usr/bin/gsissh -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu
+2018-05-15 15:05:34,900: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   51] ( export PROMPT_COMMAND='' PS1='$' ; set prompt='$'\n)
+2018-05-15 15:05:35,138: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   88] (Last login: Tue May 15 08:05:32 2018 from static.166.86.201.138.clients.your-server.de\n)
+2018-05-15 15:05:35,138: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [  567] ( \n   ___  __           _      __     __ \n  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___\n / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<\n/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nBatch and Scheduler configuration.\n  Queues:  normal (default), high, low, debug\n  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)\n             "xehimem" (128GB mem), "xkhimem" (64GB mem)\n  30 min default wall time, 48 hr maximum\n  -lnodes=X:ppn=Y syntax supported.\n\n)
+2018-05-15 15:05:35,139: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [  406] (All SSH traffic on this system is monitored.\n\n06-10-15 17:57\nBlue Waters Discounts Available: For details, see:\nhttps://bluewaters.ncsa.illinois.edu/charge-factor-discounts\n\nQuestions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.\nFor known issues:  https://bluewaters.ncsa.illinois.edu/known-issues\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n)
+2018-05-15 15:05:35,910: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-15 15:05:35,910: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   28] ( printf 'HELLO_%d_SAGA\n' 1\n)
+2018-05-15 15:05:36,921: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-15 15:05:36,921: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   28] ( printf 'HELLO_%d_SAGA\n' 2\n)
+2018-05-15 15:05:37,021: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   22] (farkaspa@h2ologin3:~> )
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (Last login: Tue May 15 08:05:32 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin3:~> )
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (Last login: Tue May 15 08:05:32 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin3:~> )
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   17] ($$HELLO_1_SAGA\n$)
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) ($$HELLO_1_SAGA)
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$)
+2018-05-15 15:05:37,022: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (
+$)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [    1] ($)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) ($)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) ($)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   14] (HELLO_2_SAGA\n)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) (HELLO_2_SAGA)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [    1] ($)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$)
+2018-05-15 15:05:37,036: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : Got initial shell prompt (6) (
+$)
+2018-05-15 15:05:37,037: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f363df43210> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-15 15:05:37,037: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-15 15:05:37,037: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   30] ( stty -echo ; exec /bin/sh -i\n)
+2018-05-15 15:05:37,382: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   13] (h2ologin3:~> )
+2018-05-15 15:05:37,382: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f363df43210> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-15 15:05:37,382: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-15 15:05:37,483: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [  152] (set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null\n)
+2018-05-15 15:05:37,599: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   10] (PROMPT-0->)
+2018-05-15 15:05:37,599: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got new shell prompt
+2018-05-15 15:05:37,599: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-15 15:05:37,700: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f363df43210> : run sync  :  echo "WORKDIR: /scratch/sciteam/$USER"
+2018-05-15 15:05:37,700: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-15 15:05:37,801: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : run_sync: echo "WORKDIR: /scratch/sciteam/$USER"
+2018-05-15 15:05:37,801: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   39] (echo "WORKDIR: /scratch/sciteam/$USER"\n)
+2018-05-15 15:05:37,917: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   46] (WORKDIR: /scratch/sciteam/farkaspa\nPROMPT-0->)
+2018-05-15 15:05:37,917: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYShell del  <saga.utils.pty_shell.PTYShell object at 0x7f363df13150>
+2018-05-15 15:05:38,017: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess del  <saga.utils.pty_process.PTYProcess object at 0x7f363df43210>
+.[39m[0m2018-05-15 15:05:38,039: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Pilot pilot.0000 state: PMGR_LAUNCHING_PENDING
+[92m                                                                     ok
+[39m[0m2018-05-15 15:05:38,041: radical.entk.resource_manager.0000: MainProcess                     : pmgr.0000.subscriber._state_sub_cb: INFO    : Pilot pilot.0000 state: PMGR_LAUNCHING
+2018-05-15 15:05:43,395: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f363c234d50>
+2018-05-15 15:05:43,395: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-15 15:05:43,396: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-15 15:05:43,396: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-15 15:05:43,396: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-15 15:05:43,396: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:43,396: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:45,523: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-15 15:05:45,523: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-15 15:05:45,873: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-15 15:05:46,090: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-15 15:05:46,192: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  :  cd / &&  test -d  '/' && cd '/'
+2018-05-15 15:05:46,293: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: cd / &&  test -d  '/' && cd '/'
+2018-05-15 15:05:46,408: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : initialized directory (0)()
+2018-05-15 15:05:46,409: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/'
+
+2018-05-15 15:05:46,509: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/'
+2018-05-15 15:05:46,634: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : //tmp/rp_agent_tar_diruG041d/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz
+2018-05-15 15:05:46,634: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : //tmp/rp_agent_tar_diruG041d/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz
+2018-05-15 15:05:46,735: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : get cp slave
+2018-05-15 15:05:50,578: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f363c23f650>
+2018-05-15 15:05:50,599: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-15 15:05:50,599: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-15 15:05:50,599: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-15 15:05:50,599: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-15 15:05:50,600: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:50,600: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:52,742: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     3 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-15 15:05:52,742: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-15 15:05:53,092: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     3 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-15 15:05:53,308: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-15 15:05:53,409: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f363c23f7d0>
+2018-05-15 15:05:53,410: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-15 15:05:53,410: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-15 15:05:53,410: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-15 15:05:53,410: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-15 15:05:53,411: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:53,411: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-15 15:05:55,542: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d7d0> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-15 15:05:55,543: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-15 15:05:55,892: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d7d0> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-15 15:05:56,133: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-15 15:05:56,234: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  :  mkdir -p .saga/adaptors/shell_job/
+2018-05-15 15:05:56,335: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: mkdir -p .saga/adaptors/shell_job/
+2018-05-15 15:05:56,459: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  :  test -f .saga/adaptors/shell_job//wrapper.sh
+2018-05-15 15:05:56,560: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: test -f .saga/adaptors/shell_job//wrapper.sh
+2018-05-15 15:05:56,676: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  :  /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-15 15:05:56,777: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-15 15:05:57,745: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got cmd prompt (0)(PID: 8106)
+2018-05-15 15:05:57,745: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d7d0> : run sync  :  /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-15 15:05:57,846: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-15 15:05:58,420: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got mon prompt (0)(PID: 8309)
+2018-05-15 15:05:58,420: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-1       : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d7d0> : run async : MONITOR
+2018-05-15 15:05:58,424: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  : RUN true && ( /bin/sh -c 'tar zmxvf /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz -C /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019' )
+
+2018-05-15 15:05:58,525: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: RUN true && ( /bin/sh -c 'tar zmxvf /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/rp.session.two.kristofarkas.017666.0019.pmgr.0000.launching.0.child.tgz -C /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019' )
+2018-05-15 15:05:58,752: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : ['RUNNING ', 'OK', '8474.0']
+2018-05-15 15:05:58,752: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : started job [gsissh://bw.ncsa.illinois.edu]-[8474.0]
+2018-05-15 15:05:58,752: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  : STATS 8474.0
+
+2018-05-15 15:05:58,853: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STATS 8474.0
+2018-05-15 15:05:58,992: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : ['OK', 'STATE : DONE', 'START  : 1526389558', 'STOP   : 1526389558', 'START_STDERR', 'END_STDERR', 'START_STDOUT', 'END_STDOUT']
+2018-05-15 15:05:58,993: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  : STDOUT 8474.0
+
+2018-05-15 15:05:59,094: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STDOUT 8474.0
+2018-05-15 15:05:59,224: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f363e40d790> : run sync  : STDERR 8474.0
+
+2018-05-15 15:05:59,325: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STDERR 8474.0
+2018-05-15 15:06:07,331: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS version: Version: 6.0.4
+Commit: 6a0b37f85c7d644e9217cbab1542792d646f59a6
+2018-05-15 15:06:07,550: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qdel: /opt/torque/6.0.4/bin/qdel
+2018-05-15 15:06:07,769: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qsub: /opt/torque/6.0.4/bin/qsub
+2018-05-15 15:06:07,987: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS pbsnodes: /opt/torque/6.0.4/bin/pbsnodes
+2018-05-15 15:06:08,205: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qstat: /opt/torque/6.0.4/bin/qstat
+2018-05-15 15:06:08,424: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Host 'bw.ncsa.illinois.edu' seems to be a Cray machine.
+2018-05-15 15:06:10,513: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : Found the following 'ppn' configurations: {32: 22636, 16: 4228, 128: 64}. Using 32 as default ppn.
+2018-05-15 15:06:10,520: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : set job name 1: pilot.0000
+2018-05-15 15:06:10,520: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : set job name 2: pilot.0000
+2018-05-15 15:06:10,521: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Using Blue Waters (Cray XE6/XK7) specific '#PBS -l nodes=xx:ppn=yy'
+2018-05-15 15:06:10,521: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Generated PBS script: 
+#!/bin/bash 
+#PBS -N pilot.0000 
+#PBS -v RADICAL_PILOT_PROFILE=TRUE
+#PBS -o /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/bootstrap_1.out 
+#PBS -e /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/bootstrap_1.err 
+#PBS -l walltime=24:0:00 
+#PBS -q high 
+#PBS -A bamm 
+#PBS -l nodes=325:ppn=32
+export    PBS_O_WORKDIR=/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000 
+mkdir -p  /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000
+cd        /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000
+export SAGA_PPN=32
+/bin/bash -l /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/bootstrap_0.sh  -d 'radical.utils-0.47.4-merge-pre-gpu-master.tar.gz:saga-python-0.47.4-v0.47.4-master.tar.gz:radical.pilot-0.47.11-v0.47.11-master.tar.gz' -p 'pilot.0000' -s 'rp.session.two.kristofarkas.017666.0019' -m 'create' -r 'local' -b 'default' -g 'default' -v '/scratch/sciteam/farkaspa/radical.pilot.sandbox/ve.ncsa.bw_aprun.0.47.11' -y '1440' -e 'module switch PrgEnv-cray PrgEnv-gnu' -e 'module load bwpy' 
+2018-05-15 15:06:10,521: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Creating working directory /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000
+2018-05-15 15:06:12,306: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : WARNING : qsub: WARNING: Job script does not invoke any 'aprun'/'ccmrun' command. Job will be submitted as usual, but please ensure your job script eventuallyinvokes 'aprun'/'ccmrun' command to execute tasks on allocated compute nodes.Please contact help+bw@ncsa.illinois.edu if you need any assistance.
+2018-05-15 15:06:12,306: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Submitted PBS job with id: [torque+gsissh://bw.ncsa.illinois.edu]-[8621348]
+2018-05-15 15:06:12,307: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Assign job id  pilot.0000 / [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] / None to watch list (['[torque+gsissh://bw.ncsa.illinois.edu]-[8621348]'])
+2018-05-15 15:06:12,307: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-15 15:06:12,307: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-15 15:06:12,307: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-15 15:06:12,312: radical.entk.resource_manager.0000: MainProcess                     : pmgr.0000.subscriber._state_sub_cb: INFO    : Pilot pilot.0000 state: PMGR_ACTIVE_PENDING
+2018-05-15 15:06:12,312: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  :  cd / &&  test -d  '/' && cd '/'
+2018-05-15 15:06:12,414: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: cd / &&  test -d  '/' && cd '/'
+2018-05-15 15:06:12,530: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : initialized directory (0)()
+2018-05-15 15:06:12,530: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:12,632: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:12,762: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-0.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ties-0.conf
+2018-05-15 15:06:12,762: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-0.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ties-0.conf
+2018-05-15 15:06:13,532: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:13,633: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:13,755: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-1.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ties-1.conf
+2018-05-15 15:06:13,755: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-1.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ties-1.conf
+2018-05-15 15:06:14,525: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:14,626: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:14,751: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-tags.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-tags.pdb
+2018-05-15 15:06:14,751: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-tags.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-tags.pdb
+2018-05-15 15:06:16,111: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:16,212: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:16,342: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.crd -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.crd
+2018-05-15 15:06:16,342: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.crd -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.crd
+2018-05-15 15:06:17,344: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:17,445: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:17,569: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.pdb
+2018-05-15 15:06:17,569: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.pdb
+2018-05-15 15:06:18,685: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+
+2018-05-15 15:06:18,786: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/'
+2018-05-15 15:06:18,909: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.top -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.top
+2018-05-15 15:06:18,909: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f363e465c90> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l1-l2-lig/ptp1b-l1-l2-lig-complex.top -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017666.0019/pilot.0000/staging_area/ptp1b-l1-l2-lig-complex.top
+2018-05-15 15:06:21,070: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Resource request submission successful.. waiting for pilot to go Active
+2018-05-15 15:06:59,773: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:08:00,061: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:09:00,349: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:10:00,610: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:11:00,901: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:12:01,242: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:13:01,537: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:14:01,828: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:15:02,118: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:16:02,404: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:17:02,694: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:18:02,988: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:19:03,276: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:20:03,566: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:21:03,857: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:22:04,147: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:23:04,440: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:24:04,732: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:25:05,022: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:26:05,331: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:27:05,659: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:28:05,962: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:29:06,252: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:30:06,542: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:31:06,842: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
+2018-05-15 15:32:07,132: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8621348] (old state: Pending, new state: Pending)
