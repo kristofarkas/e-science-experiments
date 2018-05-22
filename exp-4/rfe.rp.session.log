@@ -1,0 +1,816 @@
+2018-05-22 10:09:20,607: radical.saga        : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:20,607: radical.saga        : MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:20,607: radical.saga        : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:20,607: radical.saga        : MainProcess                     : MainThread     : INFO    : radical.saga         version: 0.47.4-v0.47.4@master
+2018-05-22 10:09:20,609: radical.pilot       : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:20,609: radical.pilot       : MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:20,609: radical.pilot       : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:20,634: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:20,635: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:20,635: radical.entk.task_processor: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called box_z.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called box_y.
+INFO:htbac.simulation:Adding variable called box_x.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+INFO:htbac.simulation:Adding variable called cutoff.
+INFO:htbac.simulation:Adding variable called numsteps.
+INFO:htbac.simulation:Adding variable called switchdist.
+INFO:htbac.simulation:Adding variable called lambdawindow.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding variable called alchemicaltags.
+INFO:htbac.simulation:Adding variable called output.
+INFO:htbac.simulation:Adding variable called pairlistdist.
+INFO:htbac.simulation:Adding variable called input.
+INFO:htbac.simulation:Adding variable called pdb.
+INFO:htbac.simulation:Adding variable called topology.
+INFO:htbac.simulation:Adding variable called replica.
+INFO:htbac.simulation:Setting the value to None.
+INFO:htbac.simulation:Adding ensemble replica.
+INFO:htbac.simulation:Adding ensemble lambdawindow.
+2018-05-22 10:09:20,741: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:20,742: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:20,742: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+[94mEnTK session: re.session.two.kristofarkas.017673.0002
+[39m[0m[94mCreating AppManager[39m[0m2018-05-22 10:09:20,742: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Application Manager initialized
+[92m                                                           ok
+[39m[0mINFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.simulation:Engine is using executable: ['/u/sciteam/jphillip/NAMD_LATEST_CRAY-XE-MPI-BlueWaters/namd2']
+INFO:htbac.htbac:Using total number of cores: 10400.
+INFO:htbac.htbac:Resource dictionary:
+{'access_schema': 'gsissh',
+ 'cores': 10400,
+ 'project': 'bamm',
+ 'queue': 'high',
+ 'resource': 'ncsa.bw_aprun',
+ 'walltime': 480}
+[94mValidating and assigning resource manager[39m[0m2018-05-22 10:09:20,918: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:20,918: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:20,918: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:20,919: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Validating resource description
+2018-05-22 10:09:20,919: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Resource description validated
+2018-05-22 10:09:20,919: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Populating resource manager object
+2018-05-22 10:09:20,919: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : DEBUG   : Resource manager population successful
+[92m                                     ok
+[39m[0m2018-05-22 10:09:20,919: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Workflow assigned to Application Manager
+INFO:htbac.htbac:Stage 0: 325*32 cores.
+Stage 1: 325*32 cores.
+Stage 2: 325*32 cores.
+Stage 3: 325*32 cores.
+Stage 4: 325*32 cores.
+Stage 5: 325*32 cores.
+Stage 6: 325*32 cores.
+INFO:htbac.htbac:Running workflow.
+[94mSetting up RabbitMQ system[39m[0m2018-05-22 10:09:20,919: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Setting up RabbitMQ system
+2018-05-22 10:09:20,919: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Setting up mq connection and channel
+2018-05-22 10:09:21,006: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Connection and channel setup successful
+2018-05-22 10:09:21,006: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : Setting up all exchanges and queues
+2018-05-22 10:09:21,476: radical.entk.appmanager.0000: MainProcess                     : MainThread     : DEBUG   : All exchanges and queues are setup
+[92m                                                    ok
+[39m[0m2018-05-22 10:09:21,477: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:21,477: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:21,477: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:21,477: radical.entk.wfprocessor.0000: MainProcess                     : MainThread     : INFO    : Created WFProcessor object: wfprocessor.0000
+2018-05-22 10:09:21,569: radical.entk.appmanager.0000: MainProcess                     : MainThread     : INFO    : Starting resource request submission
+2018-05-22 10:09:21,571: radical.saga        : MainProcess                     : MainThread     : DEBUG   : listing  adaptor registry: ['saga.adaptors.context.myproxy', 'saga.adaptors.context.x509', 'saga.adaptors.context.ssh', 'saga.adaptors.context.userpass', 'saga.adaptors.shell.shell_job', 'saga.adaptors.shell.shell_file', 'saga.adaptors.shell.shell_resource', 'saga.adaptors.redis.redis_advert', 'saga.adaptors.sge.sgejob', 'saga.adaptors.pbs.pbsjob', 'saga.adaptors.lsf.lsfjob', 'saga.adaptors.condor.condorjob', 'saga.adaptors.slurm.slurm_job', 'saga.adaptors.http.http_file', 'saga.adaptors.aws.ec2_resource', 'saga.adaptors.loadl.loadljob', 'saga.adaptors.globus_online.go_file', 'saga.adaptors.torque.torquejob', 'saga.adaptors.pbspro.pbsprojob', 'saga.adaptors.srm.srmfile', 'saga.adaptors.cobalt.cobaltjob']
+2018-05-22 10:09:21,571: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.myproxy
+2018-05-22 10:09:21,571: radical.saga.api    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:21,571: radical.saga.api    : MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:21,571: radical.saga.api    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:21,571: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.context.myproxy: loading failed: ''Adaptor' object has no attribute 'opts''
+2018-05-22 10:09:21,571: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.x509
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.x509 for saga.Context API with URL scheme(s) ['x509://']
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.ssh
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.ssh for saga.Context API with URL scheme(s) ['ssh://']
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.context.userpass
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.context.userpass for saga.Context API with URL scheme(s) ['userpass://']
+2018-05-22 10:09:21,572: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_job
+2018-05-22 10:09:21,574: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_job for saga.job.Service API with URL scheme(s) ['fork://', 'local://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,574: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_job for saga.job.Job API with URL scheme(s) ['fork://', 'local://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,574: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_file
+2018-05-22 10:09:21,575: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.namespace.Directory API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,575: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.namespace.Entry API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,575: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.filesystem.Directory API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,575: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.shell.shell_file for saga.filesystem.File API with URL scheme(s) ['file://', 'local://', 'sftp://', 'gsisftp://', 'ssh://', 'gsissh://']
+2018-05-22 10:09:21,575: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.shell.shell_resource
+2018-05-22 10:09:21,576: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.shell.shell_resource: beta versions are disabled (v0.1.beta)
+2018-05-22 10:09:21,576: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.redis.redis_advert
+2018-05-22 10:09:21,577: radical.saga        : MainProcess                     : MainThread     : WARNING : Skipping adaptor saga.adaptors.redis.redis_advert 1: module loading failed: No module named redis
+2018-05-22 10:09:21,577: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.sge.sgejob
+2018-05-22 10:09:21,578: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.sge.sgejob for saga.job.Service API with URL scheme(s) ['sge://', 'sge+ssh://', 'sge+gsissh://']
+2018-05-22 10:09:21,578: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.sge.sgejob for saga.job.Job API with URL scheme(s) ['sge://', 'sge+ssh://', 'sge+gsissh://']
+2018-05-22 10:09:21,578: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.pbs.pbsjob
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbs.pbsjob for saga.job.Service API with URL scheme(s) ['pbs://', 'pbs+ssh://', 'pbs+gsissh://']
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbs.pbsjob for saga.job.Job API with URL scheme(s) ['pbs://', 'pbs+ssh://', 'pbs+gsissh://']
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.lsf.lsfjob
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.lsf.lsfjob for saga.job.Service API with URL scheme(s) ['lsf://', 'lsf+ssh://', 'lsf+gsissh://']
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.lsf.lsfjob for saga.job.Job API with URL scheme(s) ['lsf://', 'lsf+ssh://', 'lsf+gsissh://']
+2018-05-22 10:09:21,579: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.condor.condorjob
+2018-05-22 10:09:21,580: radical.saga.api    : MainProcess                     : MainThread     : INFO    : use condor_history: False
+2018-05-22 10:09:21,580: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.condor.condorjob for saga.job.Service API with URL scheme(s) ['condor://', 'condor+ssh://', 'condor+gsissh://']
+2018-05-22 10:09:21,580: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.condor.condorjob for saga.job.Job API with URL scheme(s) ['condor://', 'condor+ssh://', 'condor+gsissh://']
+2018-05-22 10:09:21,580: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.slurm.slurm_job
+2018-05-22 10:09:21,581: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.slurm.slurm_job for saga.job.Service API with URL scheme(s) ['slurm://', 'slurm+ssh://', 'slurm+gsissh://']
+2018-05-22 10:09:21,581: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.slurm.slurm_job for saga.job.Job API with URL scheme(s) ['slurm://', 'slurm+ssh://', 'slurm+gsissh://']
+2018-05-22 10:09:21,581: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.http.http_file
+2018-05-22 10:09:21,581: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.http.http_file for saga.namespace.Entry API with URL scheme(s) ['http://', 'https://']
+2018-05-22 10:09:21,582: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.http.http_file for saga.filesystem.File API with URL scheme(s) ['http://', 'https://']
+2018-05-22 10:09:21,582: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.aws.ec2_resource
+2018-05-22 10:09:21,586: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.Context API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-22 10:09:21,586: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.resource.Manager API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-22 10:09:21,586: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.aws.ec2_resource for saga.resource.Compute API with URL scheme(s) ['ec2://', 'ec2_keypair://', 'openstack://', 'eucalyptus://', 'euca://', 'aws://', 'amazon://', 'http://', 'https://']
+2018-05-22 10:09:21,586: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.loadl.loadljob
+2018-05-22 10:09:21,587: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.loadl.loadljob for saga.job.Service API with URL scheme(s) ['loadl://', 'loadl+ssh://', 'loadl+gsissh://']
+2018-05-22 10:09:21,587: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.loadl.loadljob for saga.job.Job API with URL scheme(s) ['loadl://', 'loadl+ssh://', 'loadl+gsissh://']
+2018-05-22 10:09:21,587: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.globus_online.go_file
+2018-05-22 10:09:21,587: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.namespace.Directory API with URL scheme(s) ['go://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.namespace.Entry API with URL scheme(s) ['go://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.filesystem.Directory API with URL scheme(s) ['go://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.globus_online.go_file for saga.filesystem.File API with URL scheme(s) ['go://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.torque.torquejob
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.torque.torquejob for saga.job.Service API with URL scheme(s) ['torque://', 'torque+ssh://', 'torque+gsissh://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.torque.torquejob for saga.job.Job API with URL scheme(s) ['torque://', 'torque+ssh://', 'torque+gsissh://']
+2018-05-22 10:09:21,588: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.pbspro.pbsprojob
+2018-05-22 10:09:21,589: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbspro.pbsprojob for saga.job.Service API with URL scheme(s) ['pbspro://', 'pbspro+ssh://', 'pbspro+gsissh://']
+2018-05-22 10:09:21,589: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.pbspro.pbsprojob for saga.job.Job API with URL scheme(s) ['pbspro://', 'pbspro+ssh://', 'pbspro+gsissh://']
+2018-05-22 10:09:21,589: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.srm.srmfile
+2018-05-22 10:09:21,590: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.namespace.Directory API with URL scheme(s) ['srm://']
+2018-05-22 10:09:21,590: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.namespace.Entry API with URL scheme(s) ['srm://']
+2018-05-22 10:09:21,590: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.filesystem.Directory API with URL scheme(s) ['srm://']
+2018-05-22 10:09:21,590: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.srm.srmfile for saga.filesystem.File API with URL scheme(s) ['srm://']
+2018-05-22 10:09:21,590: radical.saga        : MainProcess                     : MainThread     : INFO    : loading  adaptor saga.adaptors.cobalt.cobaltjob
+2018-05-22 10:09:21,591: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.cobalt.cobaltjob for saga.job.Service API with URL scheme(s) ['cobalt://', 'cobalt+ssh://', 'cobalt+gsissh://']
+2018-05-22 10:09:21,591: radical.saga        : MainProcess                     : MainThread     : INFO    : Register adaptor saga.adaptors.cobalt.cobaltjob for saga.job.Job API with URL scheme(s) ['cobalt://', 'cobalt+ssh://', 'cobalt+gsissh://']
+2018-05-22 10:09:21,593: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:21,593: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:21,593: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:21,593: radical.saga.api    : MainProcess                     : MainThread     : INFO    : default X509 context for proxy at /tmp/x509up_u1014
+2018-05-22 10:09:21,595: radical.saga        : MainProcess                     : MainThread     : DEBUG   : default context [saga.adaptor.x509   ] : {'LifeTime' : '-1', 'Type' : 'X509', 'UserProxy' : '/tmp/x509up_u1014'}
+2018-05-22 10:09:21,595: radical.saga.api    : MainProcess                     : MainThread     : INFO    : ignore ssh key at /home/kristofarkas/.ssh/authorized_keys (no public key: /home/kristofarkas/.ssh/authorized_keys.pub)
+2018-05-22 10:09:21,599: radical.saga.api    : MainProcess                     : MainThread     : INFO    : default ssh key at /home/kristofarkas/.ssh/id_rsa
+2018-05-22 10:09:21,599: radical.saga.api    : MainProcess                     : MainThread     : INFO    : ignore ssh key at /home/kristofarkas/.ssh/known_hosts (no public key: /home/kristofarkas/.ssh/known_hosts.pub)
+2018-05-22 10:09:21,603: radical.saga.cpi    : MainProcess                     : MainThread     : INFO    : init SSH context for key  at '/home/kristofarkas/.ssh/id_rsa' done
+2018-05-22 10:09:21,603: radical.saga        : MainProcess                     : MainThread     : DEBUG   : default context [saga.adaptor.ssh    ] : {'LifeTime' : '-1', 'Type' : 'ssh', 'UserCert' : '/home/kristofarkas/.ssh/id_rsa.pub', 'UserKey' : '/home/kristofarkas/.ssh/id_rsa'}
+2018-05-22 10:09:21,605: radical.saga        : MainProcess                     : MainThread     : WARNING : cannot initialize context - no session: {'LifeTime' : '-1', 'Type' : 'X509', 'UserProxy' : '/tmp/x509up_u1014'}
+2018-05-22 10:09:21,605: radical.saga        : MainProcess                     : MainThread     : WARNING : cannot initialize context - no session: {'LifeTime' : '-1', 'Type' : 'ssh', 'UserCert' : '/home/kristofarkas/.ssh/id_rsa.pub', 'UserKey' : '/home/kristofarkas/.ssh/id_rsa'}
+[94mnew session: [39m[0m[rp.session.two.kristofarkas.017673.0003][39m[0m[94m                         \
+database   : [39m[0m[mongodb://radical:fg*2GT3^eB@crick.chem.ucl.ac.uk:27017/admin][39m[0m[92m  ok
+[39m[0m[94mcreate pilot manager[39m[0m[92m                                                          ok
+[39m[0m[94mcreate pilot description[39m[0m [ncsa.bw_aprun:10400][39m[0m[92m                                ok
+[39m[0m[94msubmit 1 pilot(s)
+        [39m[0m2018-05-22 10:09:22,206: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : python.interpreter   version: 2.7.14 |Anaconda, Inc.| (default, Nov 8 2017, 22:44:41) [GCC 7.2.0]
+2018-05-22 10:09:22,206: radical.saga.pty    : MainProcess                     : MainThread     : INFO    :                      pid: 19120
+2018-05-22 10:09:22,206: radical.saga.pty    : MainProcess                     : MainThread     : INFO    :                      tid: MainThread
+2018-05-22 10:09:22,206: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f37405176d0>
+2018-05-22 10:09:22,208: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-22 10:09:22,209: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-22 10:09:22,209: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-22 10:09:22,209: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-22 10:09:22,210: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:22,210: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:22,210: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : open master pty for [ssh] [bw.ncsa.illinois.edu] kristofarkas: /usr/bin/env TERM=vt100 X509_USER_PROXY='/tmp/x509up_u1014'  "/usr/bin/gsissh" -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa  -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu'
+2018-05-22 10:09:22,210: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess init <saga.utils.pty_process.PTYProcess object at 0x7f3740985a90>
+2018-05-22 10:09:22,211: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : running: /usr/bin/env TERM=vt100 X509_USER_PROXY=/tmp/x509up_u1014 /usr/bin/gsissh -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu
+2018-05-22 10:09:22,215: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   51] ( export PROMPT_COMMAND='' PS1='$' ; set prompt='$'\n)
+2018-05-22 10:09:22,454: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   88] (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de\n)
+2018-05-22 10:09:22,455: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [  973] ( \n   ___  __           _      ... ~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n)
+2018-05-22 10:09:23,224: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-22 10:09:23,224: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   28] ( printf 'HELLO_%d_SAGA\n' 1\n)
+2018-05-22 10:09:24,231: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-22 10:09:24,231: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  175] [   28] ( printf 'HELLO_%d_SAGA\n' 2\n)
+2018-05-22 10:09:24,408: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   22] (farkaspa@h2ologin2:~> )
+2018-05-22 10:09:24,410: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin2:~> )
+2018-05-22 10:09:24,411: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin2:~> )
+2018-05-22 10:09:24,411: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  175] [   33] ($$HELLO_1_SAGA\n$$HELLO_2_SAGA\n$)
+2018-05-22 10:09:24,411: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) ($$HELLO_1_SAGA
+$$HELLO_2_SAGA)
+2018-05-22 10:09:24,411: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$)
+2018-05-22 10:09:24,411: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : Got initial shell prompt (6) (
+$)
+2018-05-22 10:09:24,412: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess init <saga.utils.pty_process.PTYProcess object at 0x7f3740486210>
+2018-05-22 10:09:24,413: radical.saga.pty    : MainProcess                     : MainThread     : INFO    : running: /usr/bin/env TERM=vt100 X509_USER_PROXY=/tmp/x509up_u1014 /usr/bin/gsissh -t -o IdentityFile=/home/kristofarkas/.ssh/id_rsa -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10 bw.ncsa.illinois.edu
+2018-05-22 10:09:24,417: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   51] ( export PROMPT_COMMAND='' PS1='$' ; set prompt='$'\n)
+2018-05-22 10:09:24,664: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   88] (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de\n)
+2018-05-22 10:09:24,665: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [  973] ( \n   ___  __           _      ... ~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n)
+2018-05-22 10:09:25,424: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-22 10:09:25,424: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   28] ( printf 'HELLO_%d_SAGA\n' 1\n)
+2018-05-22 10:09:26,428: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   69] ( export PROMPT_COMMAND='' PS1='$' > /dev/null 2>&1 || set prompt='$'\n)
+2018-05-22 10:09:26,428: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   28] ( printf 'HELLO_%d_SAGA\n' 2\n)
+2018-05-22 10:09:26,624: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   24] (farkaspa@h2ologin2:~> $$)
+2018-05-22 10:09:26,627: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin2:~> $$)
+2018-05-22 10:09:26,627: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : waiting for prompt trigger HELLO_2_SAGA: (6) (Last login: Tue May 22 03:09:22 2018 from static.166.86.201.138.clients.your-server.de
+ 
+   ___  __           _      __     __ 
+  / _ )/ /_ _____   | | /| / /__ _/ /____ ___  ___
+ / _  / / // / -_)  | |/ |/ / _ `/ __/ -_) __)(_-<
+/____/_/\_,_/\__/   |__/|__/\_,_/\__/\__/_/ /___/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batch and Scheduler configuration.
+  Queues:  normal (default), high, low, debug
+  Features:  "xe" (default), "xk", "x" (xe or xk non-specific)
+             "xehimem" (128GB mem), "xkhimem" (64GB mem)
+  30 min default wall time, 48 hr maximum
+  -lnodes=X:ppn=Y syntax supported.
+
+All SSH traffic on this system is monitored.
+
+06-10-15 17:57
+Blue Waters Discounts Available: For details, see:
+https://bluewaters.ncsa.illinois.edu/charge-factor-discounts
+
+Questions?  Mail help+bw@ncsa.illinois.edu to create a support ticket.
+For known issues:  https://bluewaters.ncsa.illinois.edu/known-issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+farkaspa@h2ologin2:~> $$)
+2018-05-22 10:09:26,627: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   31] (HELLO_1_SAGA\n$$HELLO_2_SAGA\n$)
+2018-05-22 10:09:26,627: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got shell prompt trigger (5) (HELLO_1_SAGA
+$$HELLO_2_SAGA)
+2018-05-22 10:09:26,628: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got initial shell prompt (6) (
+$)
+2018-05-22 10:09:26,628: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : Got initial shell prompt (6) (
+$)
+2018-05-22 10:09:26,628: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f3740486210> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-22 10:09:26,628: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-22 10:09:26,628: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   30] ( stty -echo ; exec /bin/sh -i\n)
+2018-05-22 10:09:26,989: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   13] (h2ologin2:~> )
+2018-05-22 10:09:26,989: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f3740486210> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-22 10:09:26,989: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-22 10:09:27,091: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [  152] (set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null\n)
+2018-05-22 10:09:27,206: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   10] (PROMPT-0->)
+2018-05-22 10:09:27,207: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : got new shell prompt
+2018-05-22 10:09:27,207: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-22 10:09:27,310: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   :  ===     1 : <saga.utils.pty_process.PTYProcess object at 0x7f3740486210> : run sync  :  echo "WORKDIR: /scratch/sciteam/$USER"
+2018-05-22 10:09:27,311: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : flush: [  187] [     ] (flush pty read cache)
+2018-05-22 10:09:27,413: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : run_sync: echo "WORKDIR: /scratch/sciteam/$USER"
+2018-05-22 10:09:27,413: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : write: [  187] [   39] (echo "WORKDIR: /scratch/sciteam/$USER"\n)
+2018-05-22 10:09:27,527: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : read : [  187] [   46] (WORKDIR: /scratch/sciteam/farkaspa\nPROMPT-0->)
+2018-05-22 10:09:27,529: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYShell del  <saga.utils.pty_shell.PTYShell object at 0x7f37405176d0>
+2018-05-22 10:09:27,629: radical.saga.pty    : MainProcess                     : MainThread     : DEBUG   : PTYProcess del  <saga.utils.pty_process.PTYProcess object at 0x7f3740486210>
+.[39m[0m2018-05-22 10:09:27,654: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Pilot pilot.0000 state: PMGR_LAUNCHING_PENDING
+[92m                                                                     ok
+[39m[0m2018-05-22 10:09:27,659: radical.entk.resource_manager.0000: MainProcess                     : pmgr.0000.subscriber._state_sub_cb: INFO    : Pilot pilot.0000 state: PMGR_LAUNCHING
+2018-05-22 10:09:33,690: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f37307efdd0>
+2018-05-22 10:09:33,690: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-22 10:09:33,690: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-22 10:09:33,690: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-22 10:09:33,690: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-22 10:09:33,691: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:33,691: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:35,907: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-22 10:09:35,907: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-22 10:09:36,285: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-22 10:09:36,502: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-22 10:09:36,605: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  :  cd / &&  test -d  '/' && cd '/'
+2018-05-22 10:09:36,707: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: cd / &&  test -d  '/' && cd '/'
+2018-05-22 10:09:36,822: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : initialized directory (0)()
+2018-05-22 10:09:36,824: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/'
+
+2018-05-22 10:09:36,926: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/'
+2018-05-22 10:09:37,049: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : //tmp/rp_agent_tar_dirYfMaEX/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz
+2018-05-22 10:09:37,050: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : //tmp/rp_agent_tar_dirYfMaEX/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz
+2018-05-22 10:09:37,152: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     2 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : get cp slave
+2018-05-22 10:09:47,617: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f373077b690>
+2018-05-22 10:09:47,618: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-22 10:09:47,758: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-22 10:09:47,758: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-22 10:09:47,758: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-22 10:09:47,760: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:47,760: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:52,721: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     3 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-22 10:09:52,721: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-22 10:09:53,137: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     3 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-22 10:09:53,355: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-22 10:09:53,458: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : PTYShell init <saga.utils.pty_shell.PTYShell object at 0x7f373077b850>
+2018-05-22 10:09:53,459: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : PTY prompt pattern: [\$#%>\]]\s*$
+2018-05-22 10:09:53,460: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh copy  mode set to 'sftp'
+2018-05-22 10:09:53,460: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh share mode set to 'auto'
+2018-05-22 10:09:53,460: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : ssh timeout    set to '10.0'
+2018-05-22 10:09:53,462: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection M_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:09:53,462: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : SSH Connection S_FLAGS: -o ControlMaster=auto -o ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl -o TCPKeepAlive=no  -o ServerAliveInterval=10 -o ServerAliveCountMax=20 -o ConnectTimeout=10
+2018-05-22 10:10:03,187: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e77d0> : init : ['/usr/bin/env', 'TERM=vt100', 'X509_USER_PROXY=/tmp/x509up_u1014', '/usr/bin/gsissh', '-t', '-o', 'IdentityFile=/home/kristofarkas/.ssh/id_rsa', '-o', 'ControlMaster=auto', '-o', 'ControlPath=/tmp/saga_ssh_kristofarkas_%h_%p.ctrl', '-o', 'TCPKeepAlive=no', '-o', 'ServerAliveInterval=10', '-o', 'ServerAliveCountMax=20', '-o', 'ConnectTimeout=10', 'bw.ncsa.illinois.edu']
+2018-05-22 10:10:03,187: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : running command shell: exec /bin/sh -i
+2018-05-22 10:10:03,561: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e77d0> : run async :  set HISTFILE=$HOME/.saga_history; PS1='PROMPT-$?->'; PS2=''; PROMPT_COMMAND=''; export PS1 PS2 PROMPT_COMMAND 2>&1 >/dev/null; cd $HOME 2>&1 >/dev/null
+
+2018-05-22 10:10:03,782: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got new shell prompt
+2018-05-22 10:10:03,884: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  :  mkdir -p .saga/adaptors/shell_job/
+2018-05-22 10:10:03,986: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: mkdir -p .saga/adaptors/shell_job/
+2018-05-22 10:10:04,115: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  :  test -f .saga/adaptors/shell_job//wrapper.sh
+2018-05-22 10:10:04,217: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: test -f .saga/adaptors/shell_job//wrapper.sh
+2018-05-22 10:10:04,334: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  :  /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-22 10:10:04,437: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-22 10:10:05,502: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got cmd prompt (0)(PID: 35754)
+2018-05-22 10:10:05,502: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e77d0> : run sync  :  /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-22 10:10:05,604: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: /bin/sh .saga/adaptors/shell_job//wrapper.sh .saga/adaptors/shell_job/
+2018-05-22 10:10:06,681: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : got mon prompt (0)(PID: 44473)
+2018-05-22 10:10:06,682: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-1       : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e77d0> : run async : MONITOR
+2018-05-22 10:10:06,691: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  : RUN true && ( /bin/sh -c 'tar zmxvf /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz -C /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003' )
+
+2018-05-22 10:10:06,794: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: RUN true && ( /bin/sh -c 'tar zmxvf /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/rp.session.two.kristofarkas.017673.0003.pmgr.0000.launching.0.child.tgz -C /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003' )
+2018-05-22 10:10:06,953: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : ['RUNNING ', 'OK', '36004.0']
+2018-05-22 10:10:06,953: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : started job [gsissh://bw.ncsa.illinois.edu]-[36004.0]
+2018-05-22 10:10:06,953: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  : STATS 36004.0
+
+2018-05-22 10:10:07,056: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STATS 36004.0
+2018-05-22 10:10:07,192: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : ['OK', 'STATE : DONE', 'START  : 1526976606', 'STOP   : 1526976606', 'START_STDERR', 'END_STDERR', 'START_STDOUT', 'END_STDOUT']
+2018-05-22 10:10:07,194: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  : STDOUT 36004.0
+
+2018-05-22 10:10:07,296: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STDOUT 36004.0
+2018-05-22 10:10:07,424: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   :  ===     4 : <saga.utils.pty_process.PTYProcess object at 0x7f37409e7790> : run sync  : STDERR 36004.0
+
+2018-05-22 10:10:07,527: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : run_sync: STDERR 36004.0
+2018-05-22 10:10:13,408: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS version: Version: 6.0.4
+Commit: 6a0b37f85c7d644e9217cbab1542792d646f59a6
+2018-05-22 10:10:13,627: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qdel: /opt/torque/6.0.4/bin/qdel
+2018-05-22 10:10:13,846: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qsub: /opt/torque/6.0.4/bin/qsub
+2018-05-22 10:10:14,065: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS pbsnodes: /opt/torque/6.0.4/bin/pbsnodes
+2018-05-22 10:10:14,284: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Found PBS qstat: /opt/torque/6.0.4/bin/qstat
+2018-05-22 10:10:14,503: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : Host 'bw.ncsa.illinois.edu' seems to be a Cray machine.
+2018-05-22 10:10:16,581: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : DEBUG   : Found the following 'ppn' configurations: {32: 22636, 16: 4228, 128: 64}. Using 32 as default ppn.
+2018-05-22 10:10:16,585: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : set job name 1: pilot.0000
+2018-05-22 10:10:16,585: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : set job name 2: pilot.0000
+2018-05-22 10:10:16,586: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Using Blue Waters (Cray XE6/XK7) specific '#PBS -l nodes=xx:ppn=yy'
+2018-05-22 10:10:16,586: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Generated PBS script: 
+#!/bin/bash 
+#PBS -N pilot.0000 
+#PBS -v RADICAL_PILOT_PROFILE=TRUE
+#PBS -o /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/bootstrap_1.out 
+#PBS -e /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/bootstrap_1.err 
+#PBS -l walltime=8:0:00 
+#PBS -q high 
+#PBS -A bamm 
+#PBS -l nodes=325:ppn=32
+export    PBS_O_WORKDIR=/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000 
+mkdir -p  /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000
+cd        /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000
+export SAGA_PPN=32
+/bin/bash -l /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/bootstrap_0.sh  -d 'radical.utils-0.47.4-merge-pre-gpu-master.tar.gz:saga-python-0.47.4-v0.47.4-master.tar.gz:radical.pilot-0.47.11-v0.47.11-master.tar.gz' -p 'pilot.0000' -s 'rp.session.two.kristofarkas.017673.0003' -m 'create' -r 'local' -b 'default' -g 'default' -v '/scratch/sciteam/farkaspa/radical.pilot.sandbox/ve.ncsa.bw_aprun.0.47.11' -y '480' -e 'module switch PrgEnv-cray PrgEnv-gnu' -e 'module load bwpy' 
+2018-05-22 10:10:16,586: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Creating working directory /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000
+2018-05-22 10:10:18,932: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : WARNING : qsub: WARNING: Job script does not invoke any 'aprun'/'ccmrun' command. Job will be submitted as usual, but please ensure your job script eventuallyinvokes 'aprun'/'ccmrun' command to execute tasks on allocated compute nodes.Please contact help+bw@ncsa.illinois.edu if you need any assistance.
+2018-05-22 10:10:18,932: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Submitted PBS job with id: [torque+gsissh://bw.ncsa.illinois.edu]-[8640999]
+2018-05-22 10:10:18,932: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-3       : INFO    : Assign job id  pilot.0000 / [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] / None to watch list (['[torque+gsissh://bw.ncsa.illinois.edu]-[8640999]'])
+2018-05-22 10:10:18,933: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-22 10:10:18,933: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-22 10:10:18,933: radical.saga.cpi    : pmgr.0000.launching.0           : MainThread     : INFO    : get job name 1: pilot.0000
+2018-05-22 10:10:18,937: radical.entk.resource_manager.0000: MainProcess                     : pmgr.0000.subscriber._state_sub_cb: INFO    : Pilot pilot.0000 state: PMGR_ACTIVE_PENDING
+2018-05-22 10:10:18,939: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  :  cd / &&  test -d  '/' && cd '/'
+2018-05-22 10:10:19,041: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: cd / &&  test -d  '/' && cd '/'
+2018-05-22 10:10:19,156: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : initialized directory (0)()
+2018-05-22 10:10:19,158: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:19,259: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:19,383: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-0.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ties-0.conf
+2018-05-22 10:10:19,383: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-0.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ties-0.conf
+2018-05-22 10:10:20,166: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:20,269: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:20,393: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-1.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ties-1.conf
+2018-05-22 10:10:20,394: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/miniconda2/lib/python2.7/site-packages/htbac/protocols/default-configs/rfe/ties-1.conf -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ties-1.conf
+2018-05-22 10:10:21,187: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:21,289: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:21,412: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.crd -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.crd
+2018-05-22 10:10:21,413: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.crd -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.crd
+2018-05-22 10:10:23,564: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:23,666: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:23,789: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.pdb
+2018-05-22 10:10:23,789: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.pdb
+2018-05-22 10:10:25,390: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:25,493: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:25,619: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-tags.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-tags.pdb
+2018-05-22 10:10:25,619: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-tags.pdb -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-tags.pdb
+2018-05-22 10:10:27,125: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : run sync  : mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+
+2018-05-22 10:10:27,227: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   : run_sync: mkdir -p / && cd / &&  mkdir -p '/scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/'
+2018-05-22 10:10:27,353: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : stage to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.top -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.top
+2018-05-22 10:10:27,353: radical.saga.cpi    : pmgr.0000.launching.0           : pmgr.0000.launching.0.child.subscriber._pmgr_control_cb: DEBUG   :  ===     5 : <saga.utils.pty_process.PTYProcess object at 0x7f37307effd0> : copy  to  : /home/kristofarkas/developer/e-science-experiments/systems/ptp1b-l10-l12-lig/ptp1b-l10-l12-lig-complex.top -> /scratch/sciteam/farkaspa/radical.pilot.sandbox/rp.session.two.kristofarkas.017673.0003/pilot.0000/staging_area/ptp1b-l10-l12-lig-complex.top
+2018-05-22 10:10:29,715: radical.entk.resource_manager.0000: MainProcess                     : MainThread     : INFO    : Resource request submission successful.. waiting for pilot to go Active
+2018-05-22 10:11:07,993: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:12:08,287: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:13:08,621: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:14:08,912: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:15:09,204: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:16:09,495: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:17:09,766: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:18:10,067: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:19:10,355: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:20:10,650: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:21:10,944: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:22:11,236: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:23:11,570: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:24:11,865: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:25:12,157: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:26:12,450: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:27:12,708: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:28:13,008: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:29:13,299: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:30:13,593: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:31:13,884: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:32:14,225: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:33:14,525: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:34:14,812: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:35:15,102: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:36:15,390: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:37:15,678: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:38:15,971: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:39:16,259: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:40:16,545: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:41:16,834: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:42:17,135: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:43:17,427: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:44:17,712: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:45:18,005: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:46:18,296: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:47:18,595: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:48:18,888: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:49:19,179: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:50:19,469: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:51:19,757: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:52:20,050: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:53:20,343: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:54:20,632: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:55:20,924: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:56:21,214: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:57:21,510: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:58:21,802: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 10:59:22,095: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:00:22,375: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:01:22,672: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:02:22,965: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:03:23,254: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:04:23,547: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:05:23,836: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:06:24,127: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:07:24,478: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:08:24,766: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:09:25,058: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:10:25,345: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:11:25,634: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:12:25,924: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:13:26,216: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:14:26,559: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:15:26,846: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:16:27,140: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:17:27,437: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:18:27,731: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:19:28,024: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:20:28,318: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:21:28,609: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:22:28,920: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:23:29,211: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:24:29,504: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:25:29,785: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:26:30,066: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:27:30,354: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:28:30,646: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:29:30,939: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:30:31,232: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:31:31,524: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:32:31,815: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:33:32,108: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:34:32,411: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:35:32,699: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:36:32,978: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:37:33,271: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:38:33,563: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:39:33,856: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:40:34,127: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:41:34,417: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:42:34,704: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:43:34,986: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:44:35,276: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:45:35,569: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:46:35,861: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:47:36,152: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:48:36,439: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:49:36,734: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:50:37,023: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:51:37,364: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:52:37,655: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:53:37,946: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:54:38,453: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:55:38,745: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:56:39,039: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:57:39,331: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:58:39,622: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 11:59:39,913: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:00:40,205: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:01:40,489: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:02:40,778: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:03:41,067: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:04:41,351: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:05:41,644: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:06:41,937: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:07:42,229: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:08:42,523: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:09:43,023: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:10:43,516: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:11:43,809: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:12:44,102: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:13:44,392: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:14:44,685: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:15:44,977: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:16:45,270: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:17:45,564: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:18:45,807: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:19:46,098: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:20:46,390: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:21:46,650: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:22:46,944: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:23:47,238: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:24:47,497: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:25:47,788: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:26:48,636: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:27:48,933: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:28:49,225: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:29:49,512: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:30:49,803: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:31:50,096: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:32:50,381: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:33:50,674: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:34:50,972: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:35:51,264: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:36:51,554: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:37:51,846: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:38:52,130: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:39:52,424: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:40:52,922: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:41:53,251: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:42:53,535: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:43:53,830: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:44:54,122: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:45:54,418: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:46:54,698: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:47:54,986: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:48:55,279: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:49:55,571: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:50:55,850: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:51:56,178: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:52:56,473: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:53:56,765: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:54:57,057: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:55:57,346: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:56:57,651: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:57:57,948: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:58:58,242: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 12:59:58,537: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:00:58,831: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:01:59,123: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:02:59,418: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:03:59,709: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:04:59,956: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:06:00,220: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:07:00,511: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:08:00,803: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:09:01,095: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:10:01,386: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:11:01,679: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:12:02,104: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:13:02,395: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:14:02,688: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:15:02,970: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:16:03,269: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:17:03,519: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:18:03,806: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:19:04,099: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:20:04,394: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:21:04,684: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:22:04,982: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:23:05,276: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:24:05,566: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:25:05,851: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:26:06,145: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:27:06,437: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:28:06,726: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:29:07,036: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:30:07,307: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:31:07,599: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:32:07,890: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:33:08,183: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:34:08,475: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:35:08,768: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:36:09,052: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:37:09,342: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:38:09,636: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:39:09,928: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:40:10,221: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:41:10,512: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:42:10,807: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:43:11,104: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:44:11,397: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:45:11,689: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:46:11,976: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:47:12,317: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:48:12,609: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:49:13,246: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:50:13,536: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:51:13,878: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:52:14,172: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:53:14,464: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:54:14,708: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:55:14,997: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:56:15,290: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:57:15,582: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:58:15,873: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 13:59:16,164: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:00:16,458: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:01:16,999: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:02:17,286: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:03:17,579: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:04:17,871: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:05:18,164: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:06:18,454: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:07:18,696: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:08:18,989: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:09:19,282: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:10:19,575: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:11:19,867: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:12:20,157: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:13:20,449: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:14:20,743: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:15:21,037: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:16:21,311: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:17:21,614: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:18:21,903: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:19:22,199: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:20:22,491: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:21:22,787: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:22:23,080: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:23:23,373: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:24:23,662: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:25:23,937: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:26:24,230: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:27:24,522: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:28:24,791: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:29:25,084: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)
+2018-05-22 14:30:25,378: radical.saga.cpi    : pmgr.0000.launching.0           : Thread-2       : INFO    : Job monitoring thread updating Job [torque+gsissh://bw.ncsa.illinois.edu]-[8640999] (old state: Pending, new state: Pending)

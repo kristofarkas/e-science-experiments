@@ -27,7 +27,7 @@ def run_rfe():
         
     p = Protocol(clone_settings=False)
 
-    for step, numsteps in zip([Rfe.step0, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1], [10000, 1000, 1000, 1000, 1000, 10000,  3000000]):
+    for step, numsteps in zip([Rfe.step0, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1, Rfe.step1], [10000, 500, 1000, 1000, 1000, 10000,  3000000]):
 
         rfe = Simulation()
         rfe.engine = 'namd_mpi'

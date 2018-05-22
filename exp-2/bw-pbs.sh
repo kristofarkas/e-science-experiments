@@ -10,4 +10,4 @@ export RADICAL_ENTK_VERBOSE='DEBUG'
 export RADICAL_SAGA_VERBOSE='DEBUG'
 export RADICAL_PILOT_VERBOSE='DEBUG'
 
-python rfe.py mcl1-l32-l38-lig ptp1b-l10-l12-lig tyk2-l4-l9-lig tyk2-l7-l8-lig 33162 &> rfe.rp.session.log
+python rfe.py mcl1-l32-l38-lig ptp1b-l10-l12-lig tyk2-l4-l9-lig tyk2-l7-l8-lig 33182 &> rfe.rp.session.log
